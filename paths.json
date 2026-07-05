@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/schlueter-na/language-masters/en:/",
+    "/content/schlueter-na/language-masters/en/:/en/",
+    "/content/schlueter-na/language-masters/fr/:/fr/",
+    "/content/schlueter-na/language-masters/fr:/fr",
+    "/content/schlueter-na/language-masters/es/:/es/",
+    "/content/schlueter-na/language-masters/es:/es",
+    "/content/schlueter-na/language-masters/ja/:/ja/",
+    "/content/schlueter-na/language-masters/ja:/ja",
+    "/content/schlueter-na/language-masters/de/:/de/",
+    "/content/schlueter-na/language-masters/de:/de",
+    "/content/schlueter-na/configuration:/.helix/config.json",
+    "/content/schlueter-na/metadata:/metadata.json",
+    "/content/schlueter-na/redirects:/redirects.json",
+    "/content/schlueter-na/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/schlueter-na/",
+    "/content/dam/schlueter-na/"
   ]
 }
